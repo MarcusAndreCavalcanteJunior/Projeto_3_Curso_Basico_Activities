@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Activities</string>
+    <string name="btn_abrir">Abrir</string>
+    <string name="activity_2">Segunda activity</string>
+</resources>
